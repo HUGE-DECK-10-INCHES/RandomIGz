@@ -1,0 +1,16 @@
+{
+    "name": "Random Follower Picker",
+    "version": "1.0",
+    "description": "Random follower picker for instagram!",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_icon": "images/img16.png",
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "128": "images/img16.png"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
