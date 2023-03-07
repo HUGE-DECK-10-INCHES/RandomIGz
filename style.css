@@ -1,0 +1,7 @@
+.hidden {
+    display: none;
+}
+#app {
+    width: 200px;
+    min-height: 100px;
+}
